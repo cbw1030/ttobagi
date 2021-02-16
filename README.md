@@ -10,9 +10,9 @@
 
 ## 🛠 사용 기술
 
-| Front-End | Back-End | DataBase | Server | Tool |
-| --- | --- | --- | --- | --- |
-| HTML5<br>CSS3<br>JavaScript<br>ES6 | Spring boot | Mysql | Apache Tomcat | Spring Tool Suite<br>Git<br>Notion<br>Adobe XD<br>Photoshop |
+| Front-End | Back-End | DataBase | Server | Library & Framework | Tool |
+| --- | --- | --- | --- | --- | --- |
+| HTML5<br>CSS3<br>JavaScript<br>ES6 | Spring boot | Mysql | Apache Tomcat | Spring Security<br>MyBatis<br>Gson<br>Ckeditor<br>AOS<br>Google API | Spring Tool Suite<br>Git<br>Notion<br>Adobe XD<br>Photoshop |
 
 ## 📅 개발 기간
 ![또바기 프로젝트 일정](https://user-images.githubusercontent.com/65852909/108054741-66f80b00-7092-11eb-8395-07088b71c6a7.png)
@@ -79,10 +79,14 @@
 | --- | --- | --- | --- | --- |
 
 ## Contribution
-  - [x] Front-end
-    - 작성 예정
-  - [x] Back-end
-    - 작성 예정
+  - [x] Front-end & Back-end
+    - [x] 사용자
+      - 메인 페이지
+      - 회원가입 및 로그인
+      - 커플 등록 
+      - 마이페이지
+    - [x] 관리자
+      - 회원 관리
     
 ## 개발에 어려웠던 점
   - [x] 서비스 기능의 다양성을 위해 처음 사용해보는 API와 라이브러리들을 처음 활용해봐서 어려움이 있었습니다.
